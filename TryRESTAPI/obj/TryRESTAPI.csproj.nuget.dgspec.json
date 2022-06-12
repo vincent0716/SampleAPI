@@ -52,17 +52,9 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
-            "Microsoft.Build.Tasks.Git": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.1.1, )"
-            },
-            "Microsoft.SourceLink.GitHub": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "[1.15.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -74,7 +66,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [
