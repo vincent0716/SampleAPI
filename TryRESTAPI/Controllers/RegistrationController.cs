@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Web.Http;
 using MySql.Data.MySqlClient;
 using TryRESTAPI.WebConfig;
 
